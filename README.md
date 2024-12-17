@@ -28,7 +28,7 @@ Voici quelques projets sur lesquels j'ai travaillé dans le cadre de ma formatio
 ### 🎬 **JustStreamIt** 
 - **Description** : Interface utilisateur web affichant des films à partir d'une API.
 - **Compétences** : Manipulation d'API, gestion de projet en anglais.
-- **Technologies** : Python, API Rest, HTML/CSS.
+- **Technologies** : Python, API Rest, HTML/CSS, JavaScript.
 
 ### ♟️ **Logiciel de gestion de tournois d'échecs** 
 - **Description** : Application en ligne de commande pour organiser des tournois d'échecs.
